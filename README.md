@@ -38,6 +38,7 @@
     - Ares
         > [https://aresclient.org/](https://aresclient.org/)
     - Astolfo
+        > [http://astoline.tk/](http://astoline.tk/)
         > [https://www.astolfo.lgbt/](https://www.astolfo.lgbt/)
 - D
     - Debug
