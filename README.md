@@ -37,8 +37,9 @@
         > [https://abyssclient.com/](https://abyssclient.com/)
     - Ares
         > [https://aresclient.org/](https://aresclient.org/)
-    - Astolfo
+    - Astoline
         > [http://astoline.tk/](http://astoline.tk/)
+    - Astolfo
         > [https://www.astolfo.lgbt/](https://www.astolfo.lgbt/)
 - D
     - Debug
