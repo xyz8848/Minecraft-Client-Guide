@@ -16,7 +16,8 @@
         > [http://www.fpsmaster.top/](http://www.fpsmaster.top/)
 - L
     - LabyMod
-        > [https://laby.net/](https://laby.net/) | [https://labymod.net/](https://labymod.net/)
+        > [https://laby.net/](https://laby.net/)
+        > [https://labymod.net/](https://labymod.net/)
     - Lunar
         > [http://www.lunarclient.com/](http://www.lunarclient.com/)
 - O
