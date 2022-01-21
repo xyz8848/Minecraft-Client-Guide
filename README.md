@@ -16,7 +16,7 @@
         > [http://www.fpsmaster.top/](http://www.fpsmaster.top/)
 - L
     - LabyMod
-        > [https://laby.net/](https://laby.net/)
+        > [https://laby.net/](https://laby.net/)  
         > [https://labymod.net/](https://labymod.net/)
     - Lunar
         > [http://www.lunarclient.com/](http://www.lunarclient.com/)
@@ -43,14 +43,14 @@
         > [https://www.astolfo.lgbt/](https://www.astolfo.lgbt/)
 - D
     - Debug
-        > [http://debug.xinchen.space/](http://debug.xinchen.space/)
+        > [http://debug.xinchen.space/](http://debug.xinchen.space/)  
         > [http://debugclient.com/](http://debugclient.com/)
 - F
     - FDP
-        > [http://getfdp.today/](http://getfdp.today/)
+        > [http://getfdp.today/](http://getfdp.today/)  
         > [https://fdp.liulihaocai.pw/](https://fdp.liulihaocai.pw/)
     - Flux
-        > [http://flux.today/](http://flux.today/)
+        > [http://flux.today/](http://flux.today/)  
         > [http://skidline.wtf/](http://skidline.wtf/)
     - Future
         > [https://www.futureclient.net/](https://www.futureclient.net/)
@@ -73,8 +73,8 @@
         > [https://meteorclient.com/](https://meteorclient.com/)
 - N
     - Novoline
-        > [http://noveline.gg/](http://noveline.gg/)
-        > [https://novoline.wtf/](https://novoline.wtf/)
+        > [http://noveline.gg/](http://noveline.gg/)  
+        > [https://novoline.wtf/](https://novoline.wtf/)  
         > Novoline@[Intent](https://intent.store/)
 - P
     - Power X
@@ -87,7 +87,7 @@
         > [https://www.vape.gg/](https://www.vape.gg/)
 - W
     - WWE
-        > [https://inertiaclient.com/](https://inertiaclient.com/)
+        > [https://inertiaclient.com/](https://inertiaclient.com/)  
         > [http://wweclient.com/](http://wweclient.com/)
 
 
