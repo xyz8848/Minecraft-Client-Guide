@@ -1,6 +1,8 @@
 # Minecraft Client Guide
 
-## PVP Client
+## Java Edition
+
+### PVP Client
 
 - A
     - Ares
@@ -30,7 +32,7 @@
     - Salwyrr (Slw)
         > [https://www.salwyrr.com/](https://www.salwyrr.com/)
 
-## Hack Client
+### Cheat Client
 
 - A
     - Abyss
@@ -91,4 +93,17 @@
         > [http://wweclient.com/](http://wweclient.com/)
 
 
-## Other Client
+## Bedrock Edition
+
+### PVP Client
+
+- E
+    - EM
+        > [https://emclient.ga/](https://emclient.ga/) 
+
+### Cheat Client
+
+- H
+    - Horion
+        > [https://horion.download/](https://horion.download/)  
+        > [https://github.com/horionclient/Horion-Releases/releases](https://github.com/horionclient/Horion-Releases/releases)
