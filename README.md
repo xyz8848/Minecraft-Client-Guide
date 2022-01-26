@@ -14,6 +14,8 @@
     - CM-Pack
         > [https://cm-pack.pl/](https://cm-pack.pl/)
 - F
+    - Feather
+        > [https://feathermc.com](https://feathermc.com)
     - FPSMaster
         > [http://www.fpsmaster.top/](http://www.fpsmaster.top/)
 - L
