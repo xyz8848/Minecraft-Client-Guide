@@ -45,12 +45,9 @@
         > [http://astoline.tk/](http://astoline.tk/)
     - Astolfo
         > [https://www.astolfo.lgbt/](https://www.astolfo.lgbt/)
-- D
-    - Debug
-        > [http://debug.xinchen.space/](http://debug.xinchen.space/)  
-        > [http://debugclient.com/](http://debugclient.com/)
 - F
     - FDP
+        > [http://fdpclient.club/](http://fdpclient.club/)  
         > [http://getfdp.today/](http://getfdp.today/)  
         > [https://fdp.liulihaocai.pw/](https://fdp.liulihaocai.pw/)  
         > [https://github.com/UnlegitMC/FDPClient](https://github.com/UnlegitMC/FDPClient)
@@ -67,6 +64,9 @@
         > [https://impactclient.net/](https://impactclient.net/)
     - Inertia
         > [https://inertiaclient.com/](https://inertiaclient.com/)
+- J
+    - Juul
+        > [https://juul.lol/](https://juul.lol/)
 - K
     - KAMI
         > [https://github.com/zeroeightysix/KAMI](https://github.com/zeroeightysix/KAMI)
