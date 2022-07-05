@@ -48,7 +48,7 @@
         > http://fdpclient.club/  
         > http://github.com/UnlegitMC/FDPClient
     - Flux
-        > (http://flux.today/
+        > http://flux.today/
     - FootByte
         > http://foodbyte.store/
         > http://foodbyte.top
