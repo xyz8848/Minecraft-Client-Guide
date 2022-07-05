@@ -1,9 +1,6 @@
 # Minecraft Client Guide
-
 ## Java Edition
-
 ### PVP Client
-
 - A
     - Ares
         > [https://www.aresclient.com/](https://www.aresclient.com/)
@@ -15,7 +12,7 @@
         > [https://cm-pack.pl/](https://cm-pack.pl/)
 - F
     - Feather
-        > [https://feathermc.com](https://feathermc.com)
+        > [https://feathermc.com/](https://feathermc.com/)
     - FPSMaster
         > [http://www.fpsmaster.top/](http://www.fpsmaster.top/)
 - L
@@ -35,7 +32,6 @@
         > [https://www.salwyrr.com/](https://www.salwyrr.com/)
 
 ### Cheat Client
-
 - A
     - Abyss
         > [https://abyssclient.com/](https://abyssclient.com/)
@@ -50,17 +46,11 @@
 - F
     - FDP
         > [http://fdpclient.club/](http://fdpclient.club/)  
-        > [http://getfdp.today/](http://getfdp.today/)  
-        > [https://fdp.liulihaocai.pw/](https://fdp.liulihaocai.pw/)  
         > [https://github.com/UnlegitMC/FDPClient](https://github.com/UnlegitMC/FDPClient)
     - Flux
-        > [http://flux.today/](http://flux.today/)  
-        > [http://skidline.wtf/](http://skidline.wtf/)
+        > [http://flux.today/](http://flux.today/)
     - Future
         > [https://www.futureclient.net/](https://www.futureclient.net/)
-- H
-    - Hanabi
-        > [https://hanabi.life/](https://hanabi.life/)
 - I
     - Impact
         > [https://impactclient.net/](https://impactclient.net/)
@@ -80,34 +70,22 @@
         > [https://meteorclient.com/](https://meteorclient.com/)
 - N
     - Novoline
-        > [http://noveline.gg/](http://noveline.gg/)  
         > [https://novoline.wtf/](https://novoline.wtf/)  
         > Novoline@[Intent](https://intent.store/)
 - P
     - Power X
         > [https://powerclient.cn/](https://powerclient.cn/)
-- S
-    - Sigma
-        > [https://sigmaclient.info/](https://sigmaclient.info/)
 - V
     - Vape
         > [https://www.vape.gg/](https://www.vape.gg/)
-- W
-    - WWE
-        > [https://inertiaclient.com/](https://inertiaclient.com/)  
-        > [http://wweclient.com/](http://wweclient.com/)
-
 
 ## Bedrock Edition
-
 ### PVP Client
-
 - E
     - EM
         > [https://emclient.ga/](https://emclient.ga/) 
 
 ### Cheat Client
-
 - H
     - Horion
         > [https://horion.download/](https://horion.download/)  
