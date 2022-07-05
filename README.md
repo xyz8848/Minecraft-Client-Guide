@@ -41,6 +41,8 @@
         > [https://abyssclient.com/](https://abyssclient.com/)
     - Ares
         > [https://aresclient.org/](https://aresclient.org/)
+    - Aristois
+        > [https://aristois.net/](https://aristois.net/)
     - Astoline
         > [http://astoline.tk/](http://astoline.tk/)
     - Astolfo
