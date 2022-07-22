@@ -53,8 +53,8 @@
     - Flux
         > http://flux.today/
     - FootByte
-        > http://foodbyte.store/
-        > http://foodbyte.top
+        > http://foodbyte.store/  
+        > http://foodbyte.top  
         > http://foodbyte.cc
     - Future
         > http://www.futureclient.net/
