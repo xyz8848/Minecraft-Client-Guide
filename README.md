@@ -54,8 +54,8 @@
         > http://flux.today/
     - FootByte
         > http://foodbyte.store/  
-        > http://foodbyte.top  
-        > http://foodbyte.cc
+        > http://foodbyte.top/  
+        > http://foodbyte.cc/
     - Future
         > http://www.futureclient.net/
 - I
@@ -81,9 +81,9 @@
         > Novoline@[Intent](http://intent.store/)
 - P
     - Power X
-        > http://powerclient.cn/
-        > http://foodbyte.top
-        > http://foodbyte.cc
+        > http://powerclient.cn/  
+        > http://foodbyte.top/  
+        > http://foodbyte.cc/
 - V
     - Vape
         > http://www.vape.gg/
